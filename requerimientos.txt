@@ -1,0 +1,4 @@
+PyQt5
+pyserial
+Adafruit_DHT
+RPi.GPIO
